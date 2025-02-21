@@ -1,4 +1,4 @@
-👋 Hey, I'm Safir – an aspiring 🔧 Data Engineer with a background in 💻 Software Engineering and a passion for ☁️ Cloud Technologies and 🔄 Edge/fog computing.
+👋 Hey, I'm Safir – an inspiring 💻 Software Engineering and a passion for ☁️ Cloud Technologies and 🔄 Edge/fog computing.
 
 Currently, I’m developing an IoT Edge-Cloud Collaborative Framework focusing on optimizing task scheduling and optimization. I enjoy working with 🐍 Python, 🗃️ SQL, ⚡ Apache Spark, and AWS.
 
